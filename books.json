@@ -1,0 +1,27 @@
+[
+  {
+    "title": "A Light in the Attic",
+    "price": "Â£51.77",
+    "rating": "Three"
+  },
+  {
+    "title": "Tipping the Velvet",
+    "price": "Â£53.74",
+    "rating": "One"
+  },
+  {
+    "title": "Soumission",
+    "price": "Â£50.10",
+    "rating": "One"
+  },
+  {
+    "title": "Sharp Objects",
+    "price": "Â£47.82",
+    "rating": "Four"
+  },
+  {
+    "title": "Sapiens: A Brief History of Humankind",
+    "price": "Â£54.23",
+    "rating": "Five"
+  }
+]
